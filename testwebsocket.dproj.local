@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2017.11.25 13:40:00.284,=C:\Users\myiet\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017.11.25 13:42:09.328,F:\Programming\delphi_rad_studio_10.1\my_projects2\test\client.dfm=C:\Users\myiet\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017.11.25 13:42:09.328,F:\Programming\delphi_rad_studio_10.1\my_projects2\test\client.pas=C:\Users\myiet\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017.11.25 13:42:15.963,F:\Programming\delphi_rad_studio_10.1\my_projects2\test\testwebsocket.dproj=C:\Users\myiet\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
